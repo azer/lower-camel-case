@@ -1,0 +1,18 @@
+{
+  "name": "lower-camel-case",
+  "version": "0.0.0",
+  "description": "Convert given string to lower camel case",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "url": "git@github.com:azer/lower-camel-case.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "devDependencies": {
+    "prova": "github:azer/prova"
+  }
+}
